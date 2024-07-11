@@ -1,0 +1,1 @@
+# goofy_euclid8
